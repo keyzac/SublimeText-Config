@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"1Self",
+		"Atomic Color Scheme",
+		"Blade Snippets",
+		"Emmet",
+		"JavaScript Completions",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Nodejs",
+		"Package Control",
+		"PHP Completions Kit",
+		"Seti_UI",
+		"Tomorrow Color Schemes"
+	]
+}
